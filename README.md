@@ -1,6 +1,6 @@
 # **Prediction of Disease Outbreaks**
 
-![Project Banner]([https://via.placeholder.com/1200x400.png?text=Disease+Outbreak+Prediction+Project](https://www.embl.org/news/wp-content/uploads/2020/07/COCHRANE_VEO_1000x600.jpg))  
+![Project Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGiXnPyoYAqmEo77r0jSoL0UFM87oci8xEw&s)
 
 ---
 
@@ -167,13 +167,13 @@ The dataset used in this project includes:
 
 ### **Visualizations**
 - **Confusion Matrix**:
-  ![Diabetes Prediction](https://www.bing.com/images/blob?bcid=S-0kt-alvSEIsT5PthTsGCJ3fSrp.....4I)
+  ![Diabetes Prediction](https://shorturl.at/ILuAm)
   ![Heart Disease Prediction](https://www.bing.com/images/blob?bcid=SwxvR7ao7SEIqxcxoNWLuD9SqbotqVTdP98)
   ![Parkinson's Disease](https://www.bing.com/images/blob?bcid=S0fSu-uFRSEIqxcxoNWLuD9SqbotqVTdP9o)
 - **ROC Curve**:
-  ![ROC Curve DP](https://www.bing.com/images/blob?bcid=S5QC9fyEnSEIsT5PthTsGCJ3fSrp.....9c)
+  ![ROC Curve DP](https://shorturl.at/2EMjC)
   ![ROC Curve HP](https://www.bing.com/images/blob?bcid=Sx.7-syPVyEIqxcxoNWLuD9SqbotqVTdP7E)
-  ![ROC Curve PP](https://www.bing.com/images/blob?bcid=S4HgTj3QCCEIsT5PthTsGCJ3fSrp.....8A)
+  ![ROC Curve PP](https://shorturl.at/XJwFB)
 
 
 ---
