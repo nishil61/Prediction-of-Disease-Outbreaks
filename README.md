@@ -221,9 +221,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your Email](mailto:pathaknishil3642@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/nishil61)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nishil-pathak-05b2111b0/)
+- **Email**: [pathaknishil3642@gmail.com](mailto:pathaknishil3642@gmail.com)
+- **GitHub**: [https://github.com/nishil61](https://github.com/nishil61)
+- **LinkedIn**: [https://www.linkedin.com/in/nishil-pathak-05b2111b0/](https://www.linkedin.com/in/nishil-pathak-05b2111b0/)
 
 ---
 
