@@ -121,14 +121,6 @@ The dataset used in this project includes:
 - **Environmental Data**: Weather conditions, temperature, humidity, etc.
 - **Demographic Data**: Population density, age distribution, etc.
 
-### Sample Dataset Structure:
-| Region       | Temperature | Humidity | Population Density | Disease Outbreak |
-|--------------|-------------|----------|--------------------|------------------|
-| Region A     | 25°C        | 60%      | 500/km²            | Yes              |
-| Region B     | 30°C        | 70%      | 300/km²            | No               |
-
-*(Replace with actual dataset details)*
-
 ---
 
 ## **Methodology**
