@@ -159,13 +159,13 @@ The dataset used in this project includes:
 
 ### **Visualizations**
 - **Confusion Matrix**:
-  ![Diabetes Prediction](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22DP%20CM.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-02-21T14%3A21%3A19.409Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fc847b809e9594a73%2FDP%2520CM.png%3FExpires%3D1834755679%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DEQDwzx9~maYy7PqGSq3jSyLaAiQW4FF~QNPyo2qJUD7Xg780dB65pFKtRCqTvuMFNSfpQrWY85RwcI1rCoBXVOubEdN-7Dol~f0hnYWj3KHLUz22Earb68zBGkrZTbGt4VZhpU5mRynwQGFEjoMzZweUs7so4RvIM2drWSzJDui4a7LRp7qhQu4GrAufMxj5O6eO25mILjawtXpp5FVOerdlWPa2xYaAM39XgcFloN418F8oPL5J5zsZiOfpBbRZLOW1K58tHl~c1~JBHc~iVrz3VLJl4LIQxjFeqxnwN9PFQEFBOsIFAZWug1KLXZNi7UsVhBwraQq9O8hJm-sLZg__%22%7D)
+  ![Diabetes Prediction](https://freeimage.host/i/39gkdve)
   ![Heart Disease Prediction](https://www.bing.com/images/blob?bcid=SwxvR7ao7SEIqxcxoNWLuD9SqbotqVTdP98)
   ![Parkinson's Disease](https://www.bing.com/images/blob?bcid=S0fSu-uFRSEIqxcxoNWLuD9SqbotqVTdP9o)
 - **ROC Curve**:
-  ![ROC Curve DP](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22DP%20ROC.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-02-21T14%3A21%3A19.407Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F22bbc42aa1154c3f%2FDP%2520ROC.png%3FExpires%3D1834755679%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DqgQTFt0vrvbrzRqJmKzVtxWrKeu984c0upB8DZfdJsHk2lN1UXN2uGCTTsH~pW5pQpBwcKdPzyuOEZh-DUbBxHb7bLJvvGmGZ7sg2f4QBaNJUrdtFVC51vf1W-om7xPF6fcky9z7ZaLUo24EDwd-7dlZdjCS7XSKkt3CwlLqVKvvQGJwGHNGICYbE96wGi5t6wPKVIcSiFQiaOWz9uHO2SXvhvWz38w8XFPTXcUHMptECIKwjSeF01H4o8TJhRn8q9xEFTkcl097gQ7MeVvpephtaJlqn-pSP97YK-nuj1oUCUFeKg8dvY8Egm7sLpb8TwGOWA0GiUd82y5aC2a0nw__%22%7D)
+  ![ROC Curve DP](https://freeimage.host/i/39gkFTb)
   ![ROC Curve HP](https://www.bing.com/images/blob?bcid=Sx.7-syPVyEIqxcxoNWLuD9SqbotqVTdP7E)
-  ![ROC Curve PP](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22PP%20ROC.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-02-21T14%3A21%3A19.405Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fc603b147624049a9%2FPP%2520ROC.png%3FExpires%3D1834755679%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DCetVX1gMEjsO2~Luhh40Hg7FMi-iFTK-0U9JNU-nJsaEvj4n-~HO4-gkMm36~Bjd3CaKqfJzeaN4kWgqHXmSr7ZCUuN4o14kNJIxSlpEhu9Bp5g8IZdZdIMII2n0cXqSIn2fxY5Yc-rsIBdO2ypcCZC6fwac0gibpQeWl8QhuW1~sSKMJH~5ZxxxC1Bijy60hfoO~EVfMpvdBb1~CwopzBARrotWYTcuTt3vQnlmm472hGO4qkd6EQhBKBnte6w18rhS4aA4LW00JXujdOxWI-ikzCsRy0LA8sqK3InA2T-JReg0-0QUx5np67N2wNBqMKXE4UjrP1o9d1rB9EbPHA__%22%7D)
+  ![ROC Curve PP](https://freeimage.host/i/39gkKjj)
 
 
 ---
