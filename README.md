@@ -233,7 +233,7 @@ For any questions or feedback, feel free to reach out:
 ---
 
 ### **Screenshots**
-  
-![Prediction Interface](https://www.bing.com/images/blob?bcid=SyU8AOXZKyEIsT5PthTsGCJ3fSrp.....9U)  
+
+![Prediction Interface](https://github.com/user-attachments/assets/918a93d9-d1e9-4c13-89b0-51297aefcf0f)
 
 ---
