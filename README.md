@@ -159,12 +159,15 @@ The dataset used in this project includes:
 
 ### **Visualizations**
 - **Confusion Matrix**:
+  
   ![Diabetes Prediction](https://github.com/user-attachments/assets/e57b2a97-407b-4442-a471-770b80477e90)
-  ![Heart Disease Prediction](https://www.bing.com/images/blob?bcid=SwxvR7ao7SEIqxcxoNWLuD9SqbotqVTdP98)
-  ![Parkinson's Disease](https://www.bing.com/images/blob?bcid=S0fSu-uFRSEIqxcxoNWLuD9SqbotqVTdP9o)
+  ![Heart Disease Prediction](https://github.com/user-attachments/assets/c58396df-f502-4b19-84e7-496c444b81d8)
+  ![Parkinson's Disease](https://github.com/user-attachments/assets/e93bdbae-5a3c-4c76-a9a8-0b2147b2264f)
+  
 - **ROC Curve**:
+  
   ![ROC Curve DP](https://github.com/user-attachments/assets/2aefac5d-f702-4673-8c94-b3eafa65cdce)
-  ![ROC Curve HP](https://www.bing.com/images/blob?bcid=Sx.7-syPVyEIqxcxoNWLuD9SqbotqVTdP7E)
+  ![ROC Curve HP](https://github.com/user-attachments/assets/43fcec2b-8fbf-49e4-9565-30744f3904c0)
   ![ROC Curve PP](https://github.com/user-attachments/assets/ce86ae52-99b6-43ae-b984-4b1bb43c4ed7)
 
 
