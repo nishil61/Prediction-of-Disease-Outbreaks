@@ -234,6 +234,8 @@ For any questions or feedback, feel free to reach out:
 
 ### **Screenshots**
 
-![Prediction Interface](https://github.com/user-attachments/assets/918a93d9-d1e9-4c13-89b0-51297aefcf0f)
+![DP](https://github.com/user-attachments/assets/918a93d9-d1e9-4c13-89b0-51297aefcf0f)
+![HP](https://github.com/user-attachments/assets/e9335fa7-03cf-41de-b298-6ab9204d3a52)
+![PP](https://github.com/user-attachments/assets/55eccf7b-7737-4a15-8421-06df0e8d9bba)
 
 ---
