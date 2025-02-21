@@ -159,13 +159,13 @@ The dataset used in this project includes:
 
 ### **Visualizations**
 - **Confusion Matrix**:
-  ![Diabetes Prediction](https://shorturl.at/ILuAm)
+  ![Diabetes Prediction](https://ibb.co/3yXjN6J5)
   ![Heart Disease Prediction](https://www.bing.com/images/blob?bcid=SwxvR7ao7SEIqxcxoNWLuD9SqbotqVTdP98)
   ![Parkinson's Disease](https://www.bing.com/images/blob?bcid=S0fSu-uFRSEIqxcxoNWLuD9SqbotqVTdP9o)
 - **ROC Curve**:
-  ![ROC Curve DP](https://shorturl.at/2EMjC)
+  ![ROC Curve DP](https://ibb.co/Q310xzYx)
   ![ROC Curve HP](https://www.bing.com/images/blob?bcid=Sx.7-syPVyEIqxcxoNWLuD9SqbotqVTdP7E)
-  ![ROC Curve PP](https://shorturl.at/XJwFB)
+  ![ROC Curve PP](https://ibb.co/9XHBcR)
 
 
 ---
